@@ -1,0 +1,6 @@
+query GetEngines{
+	rockets {
+		id
+		name
+	}
+}
